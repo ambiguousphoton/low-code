@@ -5,6 +5,7 @@
 using namespace std;
 int temp = 1;
 int count = 0;
+int jai = 6;
 
 int recursion(int x, int check)
 {
