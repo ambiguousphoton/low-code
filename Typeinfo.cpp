@@ -11,7 +11,7 @@ int main() {
     else if(str == "flt"){float x = 0.0f;};
     else if(str == "chr"){char x = ''};
     
-    auto inp[5];
+    auto inp[7];
     inp[0]= x;
     
   //  std::cin >> inp ;
